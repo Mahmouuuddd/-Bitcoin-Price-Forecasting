@@ -97,6 +97,8 @@ streamlit run app.py
 Open `http://localhost:8501` in your browser.  
 `btc_cleaned.csv` is detected automatically — no manual file upload required.
 
+The deployed URL `https://forecast-btc.streamlit.app/`
+
 ---
 
 ## 📄 Pages

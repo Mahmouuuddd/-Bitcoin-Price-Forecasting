@@ -4,7 +4,7 @@
 
 ---
 
-## Advise for better 
+## Advice for better 
 > Make the mode dark
 
 ---

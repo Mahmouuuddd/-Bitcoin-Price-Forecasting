@@ -180,3 +180,6 @@ Confidence intervals widen as √horizon, honestly reflecting BTC's short-term u
 | Multi-page app (Forecast + Statistics) | ✅ |
 | Pre-cleaned data pipeline (Jupyter notebook) | ✅ |
 
+---
+
+<p align="center">Made by <a href="https://github.com/Mahmouuuddd">Mahmoud Abdeltawab Saqr</a></p>

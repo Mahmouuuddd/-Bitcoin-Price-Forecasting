@@ -15,7 +15,7 @@
 TIME_SERIES_PROJECT/
 │
 ├── dataset/                        # Raw BTC datasets (Kaggle)
-│   ├── btc_cleaned.csv             # ✅ Output of Preparing.ipynb — used by app.py
+│   ├── btc_cleaned.csv             # ✅ Output of Preparing.ipynb
 │   ├── BTC-Daily.csv               # Primary dataset (daily OHLCV) ← used for forecasting
 │   ├── BTC-Hourly.csv              # Hourly OHLCV data
 │   ├── BTC-2017min.csv             # Minute-level data by year
